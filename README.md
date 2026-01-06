@@ -10,24 +10,27 @@ After importing my data into power query, I checked for duplicates(found none),t
 ## Data Preprocessing
 I noticed there was no column for Volume Fill Rate, in the Order Lines Table, so I created the column for Volume Fill Rate, which was Quantity Delivered/Quantity Ordered.
 ## Data Analysis & Visualizations
-(https://github.com/chinazaoguejiofor-boop/Mart-Business-Analysis/blob/main/Atiliq%20Mart%20Dashboard.png)
+<img src= "Atiliq Mart Dashboard.png" />
 Acclaimed Stores , Lotus Mart and CoolBlue have the lowest on time delivery rate, that is, longest On-time delivery, in essence, if they find a client who delivers at a shorter time, they won't hesistate to drop the contract with Atiliq Mart 
 
-![uni-5]()
+<img src= "On-tine analysis.png" />
 Elite Mart, Sorefoz Mart, info stores, Vijay Stores have the lowest  in-full delivery rate.
-In essence, Atiliq Mart is on the verge of loosing Coolblue as a client due to the extremely poor delivery service which includes taking so long to deliver, as well as not delivering the full quantity.
+<img src= "In-full Analysis.png" />
 
+### In essence, Atiliq Mart is on the verge of loosing Coolblue as a client due to the extremely poor delivery service which includes taking so long to deliver, as well as not delivering the full quantity.
 
-![uni-6](https://user-images.githubusercontent.com/115374063/194787089-024473ee-8c68-419c-8cfa-13dd0ab59b3e.png)
 Clients that Atiliq Mart works towards delivering orders in full are not always delivered on time, while Clients that are delivered to on-time, the rate at which orders are delivered in-full is below average
+<img src= "Client Insights.png" />
 
-![uni-2](https://user-images.githubusercontent.com/115374063/194787200-50ecbfa4-bc52-4060-8fa6-abba401a0d9f.png)
+
+Surat has the best Metric performance with the best delivery in August, but also the lowest Orders
+<img src= "Surat performance.png" />
+
+Most of the poor delivery service for Coolblue is found in Vadodara with better delivery service in full in Ahmedabad  
+<img src= "Coolblue-Vadodara.png" />
+
 Vadora has the poorest metric performance of the the 3 cities which shows where clients that will end their contracts with Atiliq Mart will come from
 
-![uni-8](https://user-images.githubusercontent.com/115374063/194787311-29122679-a030-453e-ad55-60622c117560.png)
-Most of the poor delivery service for Coolblue is found in Vadodara with better delivery service in full in Ahmedabad  
+<img src= "Target analysis.png" />
 
-![uni-7](https://user-images.githubusercontent.com/115374063/194787415-890f8ce3-5db4-44b7-9417-be5e731aafa6.png)
-Surat has the best Metric performance with the best delivery in August, but also the lowest Orders
-![uni-3](https://user-images.githubusercontent.com/115374063/194787476-6836e99c-4119-430a-b959-95cb65ce3b37.png)
-[view the dashboard here](https://user-images.githubusercontent.com/115374063/194786711-e7901387-5943-474f-a11a-2a211bc9ead6.png)
+[view the dashboard here](<img src= "Atiliq Mart Dashboard.png" />)
